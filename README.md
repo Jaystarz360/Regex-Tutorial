@@ -42,7 +42,7 @@ Matching a URL – /^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/
 Matching an HTML Tag – /^<([a-z]+)([^<]+)*(?:>(.*)<\/\1>|\s+\/>)$/
 
 ## GitHub gist
-I will publish my findings as a GitHub gist:
+I will publish my findings as a GitHub gist: <br>
 [View GitHub Gist](https://gist.github.com/Jaystarz360/d88748bf75472a80677d3bcc9d0feadc)
 
 
